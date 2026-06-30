@@ -28,7 +28,7 @@ Analyzes unique customer distribution, repeat purchase patterns, and buyer behav
 ### 3. Operations & Logistics
 Monitored parameters surrounding delivery fulfillment timelines, freight efficiencies, and regional performance.
 <br>
-<img src="charts/dashboard_operations_logistics.png" width="750" alt="Operations and Logistics">
+<img src="charts/dashboard_operations_and_logistics.png" width="750" alt="Operations and Logistics">
 
 ### 4. Business Insights
 Deep-dive matrix mapping out top revenue-generating English product categories and category growth.
